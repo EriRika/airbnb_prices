@@ -73,6 +73,6 @@ airbnb_prices/
    1. Linear Regression
    2. CatBoost
    
-
+[Medium Post - What Secrets does Airbnb data tell me about Seattle?](https://erikagintautas.medium.com/what-secrets-does-airbnb-data-tell-me-about-seattle-49fba69eb362)
 
 
