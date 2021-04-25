@@ -95,7 +95,8 @@ airbnb_prices/
  <br />By extracing the top 10 adjectives and nouns per district, I was able to describe them
 
 - Can I predict the price per listing?
- <br />I reached an R2 of 0.62, which is acceptable, but not particularly good. The model underpredicts especially very expensive listings. One reason could be that there is an higher order dependency with the price between some features.
+ <br />I reached an R2 of 0.62, which is acceptable, but not particularly good. The model underpredicts especially very expensive listings. One reason could be that there is a higher order dependency of the price and some features.
+ ![alt text](https://github.com/EriRika/airbnb_prices/blob/master/pictures/prediction_Ridge.png)
 
    
 [Medium Post - What Secrets does Airbnb data tell me about Seattle?](https://erikagintautas.medium.com/what-secrets-does-airbnb-data-tell-me-about-seattle-49fba69eb362)
